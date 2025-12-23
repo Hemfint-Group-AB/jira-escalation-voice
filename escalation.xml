@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <say voice="female">
+    Critical Jira escalation detected.
+    Please check Jira immediately.
+    This is a high priority alert.
+  </say>
+</response>
